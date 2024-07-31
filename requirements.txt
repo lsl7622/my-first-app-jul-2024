@@ -1,0 +1,10 @@
+# this is the requirements text file 
+
+# list packages we need to install, use the code from the read me file 
+
+pandas
+requests
+plotly
+python-dotenv
+
+

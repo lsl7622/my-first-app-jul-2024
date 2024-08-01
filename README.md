@@ -43,3 +43,8 @@ python app/unemployment.py
 
 # equivalent (we'll need this once we start importing code from one file to another):
 python -m app.unemploym
+
+Run the stocks script:
+
+```sh
+python app/stocks.py

@@ -48,3 +48,31 @@ Run the stocks script:
 
 ```sh
 python app/stocks.py
+
+# Now have to run code in module style
+
+
+## MOST RECENT Usage command lines 
+
+Unemployment report:
+
+```sh
+python -m app.unemployment
+```
+
+Stocks report:
+
+```sh
+python -m app.stocks
+``` 
+
+
+## Testing
+
+Run tests:
+
+```sh
+pytest
+``` 
+
+
